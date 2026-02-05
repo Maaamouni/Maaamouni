@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Outhmane</h1>
 <h3 align="center">A passionate Student on cybersecurity from Morocco</h3>
 
-- 🔭 I’m currently working on [Honeypot](https://github.com/Maaamouni/honeypot)
+- 🔭 I’m currently working on [Active Directory Lab](https://github.com/Maaamouni/Active-Directory-Lab)
 
 - 👯 I’m looking to collaborate on **Cybersecurity projects**
 
